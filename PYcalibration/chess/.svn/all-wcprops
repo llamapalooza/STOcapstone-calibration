@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/project/cap12-calibration/!svn/ver/75/trunk/chess
+END
+chess.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/project/cap12-calibration/!svn/ver/72/trunk/chess/chess.pyx
+END
+homography.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/project/cap12-calibration/!svn/ver/72/trunk/chess/homography.py
+END
+process.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/project/cap12-calibration/!svn/ver/75/trunk/chess/process.py
+END
+cluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/project/cap12-calibration/!svn/ver/74/trunk/chess/cluster.py
+END
+corner_approximation.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/project/cap12-calibration/!svn/ver/73/trunk/chess/corner_approximation.py
+END
+coord.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project/cap12-calibration/!svn/ver/72/trunk/chess/coord.py
+END

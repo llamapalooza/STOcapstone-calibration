@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 285
+*.xcodeproj
+.project
+.pydevproject
+.settings
+Jan23Paper
+Jan23Cal
+Jan24Cal
+Jan24
+twoTarget
+*.so
+build
+*.npy
+*hom.txt
+*.ppm
+*.png
+
+# This is _intended_ to apply to .c files generated from .pyx files. But there
+# really isn't any way to make that work without ignoring all .c files.
+*.c
+
+
+END

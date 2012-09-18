@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/project/cap12-calibration/!svn/ver/60/trunk/hESS
+END
+targetcluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/project/cap12-calibration/!svn/ver/60/trunk/hESS/targetcluster.py
+END
+bennettlasenby.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/project/cap12-calibration/!svn/ver/60/trunk/hESS/bennettlasenby.py
+END
+calibimage.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/project/cap12-calibration/!svn/ver/60/trunk/hESS/calibimage.py
+END
+geom2d.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project/cap12-calibration/!svn/ver/60/trunk/hESS/geom2d.py
+END
+kmeans.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project/cap12-calibration/!svn/ver/58/trunk/hESS/kmeans.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/project/cap12-calibration/!svn/ver/49/trunk/hESS/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/project/cap12-calibration/!svn/ver/36/trunk/hESS/test.py
+END
+csample.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/project/cap12-calibration/!svn/ver/55/trunk/hESS/csample.py
+END
+sobel.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/project/cap12-calibration/!svn/ver/38/trunk/hESS/sobel.py
+END
+houghlinesp.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/project/cap12-calibration/!svn/ver/38/trunk/hESS/houghlinesp.py
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/project/cap12-calibration/!svn/ver/79/trunk/tests
+END
+test_projection.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/project/cap12-calibration/!svn/ver/68/trunk/tests/test_projection.py
+END
+test_edgedetect.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/project/cap12-calibration/!svn/ver/79/trunk/tests/test_edgedetect.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/project/cap12-calibration/!svn/ver/48/trunk/tests/__init__.py
+END
+test_cornerdetect.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/project/cap12-calibration/!svn/ver/67/trunk/tests/test_cornerdetect.py
+END
+test_calibration.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/project/cap12-calibration/!svn/ver/68/trunk/tests/test_calibration.py
+END

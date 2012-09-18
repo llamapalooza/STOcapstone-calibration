@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/project/cap12-calibration/!svn/ver/69/trunk/targetcluster
+END
+targetcluster.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/project/cap12-calibration/!svn/ver/69/trunk/targetcluster/targetcluster.py
+END
+geom2d.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/project/cap12-calibration/!svn/ver/69/trunk/targetcluster/geom2d.py
+END
+process.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/project/cap12-calibration/!svn/ver/69/trunk/targetcluster/process.py
+END
+calibimage.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/project/cap12-calibration/!svn/ver/69/trunk/targetcluster/calibimage.pyx
+END

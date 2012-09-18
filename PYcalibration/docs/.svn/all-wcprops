@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/project/cap12-calibration/!svn/ver/75/trunk/docs
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/project/cap12-calibration/!svn/ver/50/trunk/docs/make.bat
+END
+edgedetect.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/project/cap12-calibration/!svn/ver/50/trunk/docs/edgedetect.rst
+END
+setup.rst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project/cap12-calibration/!svn/ver/75/trunk/docs/setup.rst
+END
+simulation.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/project/cap12-calibration/!svn/ver/50/trunk/docs/simulation.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/project/cap12-calibration/!svn/ver/67/trunk/docs/conf.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/project/cap12-calibration/!svn/ver/50/trunk/docs/Makefile
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project/cap12-calibration/!svn/ver/51/trunk/docs/index.rst
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/project/cap12-calibration/!svn/ver/79/trunk
+END
+corner-finding.ipynb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/project/cap12-calibration/!svn/ver/79/trunk/corner-finding.ipynb
+END
+edgedetect.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/project/cap12-calibration/!svn/ver/67/trunk/edgedetect.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/project/cap12-calibration/!svn/ver/51/trunk/setup.py
+END
+cornerdetect.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/project/cap12-calibration/!svn/ver/68/trunk/cornerdetect.py
+END
+_edgedetect.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/project/cap12-calibration/!svn/ver/78/trunk/_edgedetect.pyx
+END
+calibration.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/project/cap12-calibration/!svn/ver/71/trunk/calibration.py
+END
